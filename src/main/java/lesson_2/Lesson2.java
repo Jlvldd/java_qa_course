@@ -2,6 +2,7 @@ package lesson_2;
 
 public class Lesson2 {
     //1 Метод выводит Orange, Banana, Apple.
+
     public static void main(String[] args) {
         System.out.println("Orange, Banana, Apple");
         printThreeWords();
